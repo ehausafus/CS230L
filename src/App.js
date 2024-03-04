@@ -1,12 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import NavBar from './Navbar.js';
 import Card from './Card.js';
+import NavBar from './Navbar.js';
 
 function App() {
   return (
     <div className="App">
-      <Navbar />
+      <NavBar />
       <Card />
       <h1>CS 230L</h1>
       <h2>Section - 001</h2>
