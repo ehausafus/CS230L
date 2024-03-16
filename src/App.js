@@ -7,11 +7,11 @@ function App() {
   return (
     <div className="App">
       <NavBar />
-      <Card />
       <h1>CS 230L</h1>
       <h2>Section - 001</h2>
       <p>WVU ID: 800354906</p>
       <p>Hi I am Elizabeth Hausafus</p>
+      <Card />
     </div>
   );
 }
